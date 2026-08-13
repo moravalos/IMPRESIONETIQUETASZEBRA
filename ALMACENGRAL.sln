@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALMACENGRAL", "ALMACENGRAL\ALMACENGRAL.csproj", "{C883AB5E-D4A0-4203-9202-93DA50DE390C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C883AB5E-D4A0-4203-9202-93DA50DE390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C883AB5E-D4A0-4203-9202-93DA50DE390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C883AB5E-D4A0-4203-9202-93DA50DE390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C883AB5E-D4A0-4203-9202-93DA50DE390C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6E1E19-E7EE-450E-8C08-A2BC73BE25A7}
+	EndGlobalSection
+EndGlobal
